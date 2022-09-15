@@ -6,7 +6,7 @@
 dump
 
 #build dir
-/build
+build
 
 # Prerequisites
 *.d
